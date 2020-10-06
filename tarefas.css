@@ -25,3 +25,7 @@ body {
     text-decoration: line-through;
     font-style: italic;
 }
+
+.btn-excluir {
+    margin-left: 10px;
+}
